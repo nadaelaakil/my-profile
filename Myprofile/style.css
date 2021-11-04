@@ -1,0 +1,27 @@
+h1{
+	color:  #3e1f47;
+	font-size: 50px;
+	font-family: Italianno;
+	text-align: center;
+}
+h2{
+	color: #3e1f47 ;
+	font-size: 50px;
+	font-family: Italianno;
+	text-align: center;
+}
+h3{
+	color: #3e1f47;
+	font-size: 50px;
+	font-family: Italianno;
+	text-align: center;
+}
+body{
+	color: rgb(50, 50, 50);
+	background-color : #ecbcfd;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-weight: normal;
+	text-decoration: none;
+  }
+
